@@ -149,7 +149,7 @@ open(url,'','top=100,left=100,width=400,height=300') ;
 	
 	$subject = "Ajedrez de Torneo: Tus reglas del ajedrez";
 	$mensaje = '<head><title>Ajedrez de Torneo: Tus reglas del ajedrez</title></head><body><p>Hola, <br />
-	Aquí te envío las Leyes del Ajedrez para que conozcas todo sobre este deporte.<br /> <a href="http://www.ajedrezdetorneo.com/yuiayfsdaf4235/Leyes2014.pdf">http://www.ajedrezdetorneo.com/yuiayfsdaf4235/Leyes2014.pdf</a><br /><br />
+	Aquí te envío las Leyes del Ajedrez para que conozcas todo sobre este deporte.<br /> <a href="http://www.ajedrezdetorneo.com/static/Leyes2014.pdf">http://www.ajedrezdetorneo.com/static/Leyes2014.pdf</a><br /><br />
 	Un saludo,<br />
 	Ajedrez de Torneo<br />
 	webmaster@ajedrezdetorneo.com</p>
